@@ -1,2 +1,2 @@
 # kb
-Knowledge Base
+Knowledge Base -> click on the `Wiki` tab above
